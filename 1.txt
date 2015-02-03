@@ -1,0 +1,4 @@
+{Datasheet:[{endDate:null,projectManager:null,projectName:null,startDate:null,status:null,techLead:null,totalOfficalAllocation:null}]} 
+
+
+{items:[{endDate:null,ibmID:"cuizhedl",intranetID:null,officalAllocation:"25%",projectName:"GSMeticDashBoard",realAllocation:"10%",requiredSkill:"JAVA",startDate:null},{endDate:null,ibmID:"cuizhedl",intranetID:null,officalAllocation:null,projectName:"EMT",realAllocation:"20%",requiredSkill:null,startDate:null},{endDate:null,ibmID:"cuizhedl",intranetID:null,officalAllocation:null,projectName:"RegisterIT",realAllocation:"20%",requiredSkill:null,startDate:null},{endDate:null,ibmID:"cuizhedl",intranetID:null,officalAllocation:null,projectName:"ServiceRequest",realAllocation:"25%",requiredSkill:null,startDate:null}]} 
